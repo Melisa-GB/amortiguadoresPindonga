@@ -27,7 +27,7 @@ head
       }
       
       li a:hover {
-        background-color: red;
+        background-color:gray;
         
        }  
       div.gallery {
@@ -52,7 +52,7 @@ head
       }
       
       body{
-        background-color:rgb(116, 172, 236);
+        background-color:aliceblue(116, 172, 236);
     }
     
     h1 {
